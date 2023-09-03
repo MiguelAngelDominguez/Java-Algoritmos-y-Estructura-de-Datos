@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/ejercicio_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/ejercicio_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,9 @@
         <option name="jdkForImporter" value="openjdk-20" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -88,6 +92,10 @@
       <workItem from="1693603944414" duration="49000" />
       <workItem from="1693604322198" duration="6262000" />
       <workItem from="1693623209044" duration="642000" />
+      <workItem from="1693625928859" duration="13000" />
+      <workItem from="1693626004787" duration="46000" />
+      <workItem from="1693661440020" duration="4146000" />
+      <workItem from="1693694542556" duration="8775000" />
     </task>
     <servers />
   </component>
