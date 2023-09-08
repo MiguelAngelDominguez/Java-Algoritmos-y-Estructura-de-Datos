@@ -22,7 +22,14 @@ public class clase2 {
             System.out.println("Numero : "+ indice_1);
         }
 
-        // Foreach
+        // Foreach .- La estructura repetitiva foreach es una forma simple de recorrer un arreglo o una coleccion
+        // Se utiliza para iterar en cada elemento del array
+        // muy parecido al for, pero con una sintaxis simplificada
+
+        int [] numeros = {1,2,3,4,5};
+        for (int num : numeros){
+            System.out.println(num);
+        }
 
     }
 }
