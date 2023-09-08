@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clase2_ejercicio_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clase_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/ejercicio_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/ejercicio_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase1_ejercicio_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase1_ejercicio_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,25 +45,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.ejercicio_2">
-    <configuration name="ejercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicio_1" />
+}]]></component>
+  <component name="RunManager" selected="Application.clase2_ejercicio_1">
+    <configuration name="clase1_ejercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase1_ejercicio_1" />
+      <module name="Java - Algoritmos y Estructura de Datos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clase1_ejercicio_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase1_ejercicio_2" />
+      <module name="Java - Algoritmos y Estructura de Datos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clase2_ejercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase2_ejercicio_1" />
       <module name="Java - Algoritmos y Estructura de Datos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,8 +93,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.clase2_ejercicio_1" />
+        <item itemvalue="Application.clase1_ejercicio_2" />
         <item itemvalue="Application.ejercicio_2" />
-        <item itemvalue="Application.ejercicio_1" />
+        <item itemvalue="Application.clase1_ejercicio_1" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +110,8 @@
       <updated>1693603943191</updated>
       <workItem from="1693603944414" duration="49000" />
       <workItem from="1693604322198" duration="6262000" />
-      <workItem from="1693623209044" duration="642000" />
+      <workItem from="1693623209044" duration="1658000" />
+      <workItem from="1694118167844" duration="4097000" />
     </task>
     <servers />
   </component>
