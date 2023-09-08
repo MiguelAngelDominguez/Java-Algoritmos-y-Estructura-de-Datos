@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-public class ejercicio_2 {
+public class clase1_ejercicio_2 {
     public static boolean esMayuscula(String s) {
         return s.equals(s.toUpperCase());
     }

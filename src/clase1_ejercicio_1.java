@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-public class ejercicio_1 {
+public class clase1_ejercicio_1 {
     public static String VerificateSigno( int numero){
         if (numero > 0) return "Mayor";
         return "Menor";
