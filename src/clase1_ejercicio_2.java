@@ -27,5 +27,6 @@ public class clase1_ejercicio_2 {
         System.out.println("Es mayuscula? " + esMayuscula(letra));
         System.out.print("ingrese un Numero: ");
         String numero = reader.readLine();
+
     }
 }
