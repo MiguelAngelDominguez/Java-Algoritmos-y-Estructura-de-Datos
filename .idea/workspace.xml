@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase1_ejercicio_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase1_ejercicio_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase2_ejercicio_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase2_ejercicio_3.java" afterDir="false" />
-    </list>
+    <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +120,7 @@
       <workItem from="1694175067540" duration="3332000" />
       <workItem from="1694446860387" duration="178000" />
       <workItem from="1694535471999" duration="8056000" />
-      <workItem from="1694614761345" duration="567000" />
+      <workItem from="1694614761345" duration="895000" />
     </task>
     <servers />
   </component>
