@@ -9,8 +9,8 @@ public class clase2_ejercicio_3 {
                     System.out.println("se cumplio minuto");
                     for (int s=0; s<60; s++){
                         try {
-                            //
-                            Thread.sleep(1000);
+                            // se agrego un delay de 0.25 seg
+                            Thread.sleep(250);
                             System.out.println(h+":"+m+":"+s);
                         } catch (Exception e) {
                             System.out.println(e);
