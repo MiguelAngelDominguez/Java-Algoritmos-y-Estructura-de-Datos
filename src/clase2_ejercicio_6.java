@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class clase2_ejercicio_6 {
     static String[][] puntos = {
             {" ", "°", " "},
@@ -52,12 +54,16 @@ public class clase2_ejercicio_6 {
         printNumberCMD(tres);
         println("________.Test de Imprecion._______");
 
-        String [][] cadenaDeHora = new String[30][3];
+        String [][] cadenaDeHora = new String[24][3];
         String [][][] arrayNumeros = {
                 cero, uno, puntos, dos, cero, puntos, uno, tres
         };
-        for (){
-            
+        for (int i=0;i<4;i++){
+            for (int e = 0; e<25; e++){
+                for (String [][] crt: arrayNumeros){
+                    print(Arrays.toString(crt));
+                }
+            }
         }
         printNumberCMD(cadenaDeHora);
     }
