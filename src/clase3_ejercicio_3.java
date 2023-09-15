@@ -1,8 +1,6 @@
 import java.io.IOException;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 
-public class clase3_ejercicio_5 {
+public class clase3_ejercicio_3 {
     static int major = 0;
     public static int majorNumberArray( int [][] array){
 
