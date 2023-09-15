@@ -1,5 +1,6 @@
 import java.io.IOException;
 
+
 public class clase2_ejercicio_3 {
     public static void main(String[] args) throws IOException{
         while(true){
