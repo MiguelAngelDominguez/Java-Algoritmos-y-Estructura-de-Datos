@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase2_ejercicio_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase2_ejercicio_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,10 @@
       <workItem from="1694614761345" duration="895000" />
       <workItem from="1694647571119" duration="898000" />
       <workItem from="1694650460793" duration="4550000" />
-      <workItem from="1694699424580" duration="3530000" />
+      <workItem from="1694699424580" duration="3789000" />
+      <workItem from="1694720569903" duration="2306000" />
+      <workItem from="1694748164193" duration="940000" />
+      <workItem from="1694828538751" duration="619000" />
     </task>
     <servers />
   </component>
