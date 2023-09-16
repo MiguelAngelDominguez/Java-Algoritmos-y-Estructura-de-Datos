@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +62,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\APRENDIENDO PROGRAMACION\Java - Algoritmos y Estructura de Datos\books\PdfClase" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="clase4" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.clase2_ejercicio_6">
-    <configuration name="clase2_ejercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase2_ejercicio_1" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java - Algoritmos y Estructura de Datos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.clase2_ejercicio_6" />
         <item itemvalue="Application.clase2_ejercicio_3" />
         <item itemvalue="Application.clase2_ejercicio_4" />
         <item itemvalue="Application.clase2_ejercicio_2" />
-        <item itemvalue="Application.clase2_ejercicio_1" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +131,7 @@
       <workItem from="1694647571119" duration="898000" />
       <workItem from="1694650460793" duration="4550000" />
       <workItem from="1694699424580" duration="3530000" />
+      <workItem from="1694813288117" duration="6335000" />
     </task>
     <servers />
   </component>
