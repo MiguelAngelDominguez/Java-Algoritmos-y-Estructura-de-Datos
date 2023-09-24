@@ -5,35 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/Personaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase1_ejercicio_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase1_ejercicio_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase2_ejercicio_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase3_ejercicio_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase3_ejercicio_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clase4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Personaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase1_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1_ejercicio_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase1_ejercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1_ejercicio_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase2_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase2_ejercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase2_ejercicio_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase2_ejercicio_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase2_ejercicio_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase3_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase3_ejercicio_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase3_ejercicio_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase3_ejercicio_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Personaje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase1_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1_ejercicio_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase1_ejercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1_ejercicio_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase3_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase3_ejercicio_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase3_ejercicio_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase3_ejercicio_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +167,7 @@
       <workItem from="1694828538751" duration="619000" />
       <workItem from="1695227909500" duration="9237000" />
       <workItem from="1695422120164" duration="3614000" />
-      <workItem from="1695578819778" duration="5155000" />
+      <workItem from="1695578819778" duration="6689000" />
     </task>
     <servers />
   </component>
