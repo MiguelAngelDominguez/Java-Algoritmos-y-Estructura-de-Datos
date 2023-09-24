@@ -1,3 +1,5 @@
+package clases;
+
 import java.io.IOException;
 
 public class clase3_ejercicio_3 {

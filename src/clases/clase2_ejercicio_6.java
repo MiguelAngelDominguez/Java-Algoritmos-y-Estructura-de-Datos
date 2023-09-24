@@ -1,3 +1,5 @@
+package clases;
+
 import java.util.Arrays;
 
 public class clase2_ejercicio_6 {

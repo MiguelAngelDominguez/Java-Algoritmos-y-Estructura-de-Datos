@@ -1,3 +1,5 @@
+package clases;
+
 public class Personaje {
     int id;
     String name;
@@ -94,7 +96,7 @@ public class Personaje {
 
     @Override
     public String toString() {
-        return "Personaje{" +
+        return "clases.Personaje{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", habilidad='" + habilidad + '\'' +
