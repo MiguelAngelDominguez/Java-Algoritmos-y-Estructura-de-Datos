@@ -48,64 +48,91 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
     &quot;last_opened_file_path&quot;: &quot;H:/Programacion/Java-Algoritmos-y-Estructura-de-Datos&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\APRENDIENDO PROGRAMACION\Java - Algoritmos y Estructura de Datos\books\PdfClase" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Programacion\Java-Algoritmos-y-Estructura-de-Datos\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.clase2_ejercicio_6">
-    <configuration name="clase2_ejercicio_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase2_ejercicio_1" />
+  <component name="RunManager" selected="Application.clase6">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeraPractica.Main" />
       <module name="Java - Algoritmos y Estructura de Datos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clase2_ejercicio_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase2_ejercicio_2" />
-      <module name="Java - Algoritmos y Estructura de Datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrimeraPractica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="clase2_ejercicio_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase2_ejercicio_3" />
-      <module name="Java - Algoritmos y Estructura de Datos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clase2_ejercicio_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase2_ejercicio_4" />
+      <option name="MAIN_CLASS_NAME" value="clases.clase2_ejercicio_3" />
       <module name="Java - Algoritmos y Estructura de Datos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="clase2_ejercicio_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase2_ejercicio_6" />
+      <option name="MAIN_CLASS_NAME" value="clases.clase2_ejercicio_6" />
       <module name="Java - Algoritmos y Estructura de Datos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clase5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clases.clase5" />
+      <module name="Java - Algoritmos y Estructura de Datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clase6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clases.clase6" />
+      <module name="Java - Algoritmos y Estructura de Datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.clase6" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.clase5" />
         <item itemvalue="Application.clase2_ejercicio_6" />
         <item itemvalue="Application.clase2_ejercicio_3" />
-        <item itemvalue="Application.clase2_ejercicio_4" />
-        <item itemvalue="Application.clase2_ejercicio_2" />
-        <item itemvalue="Application.clase2_ejercicio_1" />
       </list>
     </recent_temporary>
   </component>
@@ -131,11 +158,20 @@
       <workItem from="1694720569903" duration="2306000" />
       <workItem from="1694748164193" duration="940000" />
       <workItem from="1694828538751" duration="619000" />
-      <workItem from="1694870561595" duration="2609000" />
+      <workItem from="1695227909500" duration="9237000" />
+      <workItem from="1695422120164" duration="3614000" />
+      <workItem from="1695578819778" duration="7204000" />
+      <workItem from="1696333464037" duration="3479000" />
+      <workItem from="1696546852275" duration="54000" />
+      <workItem from="1696546931252" duration="2530000" />
+      <workItem from="1696598034705" duration="294000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
