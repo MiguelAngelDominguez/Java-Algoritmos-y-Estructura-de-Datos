@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/clases/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Personaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase1_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1_ejercicio_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase1_ejercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase1_ejercicio_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase2_ejercicio_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase2_ejercicio_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase3_ejercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase3_ejercicio_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase3_ejercicio_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase3_ejercicio_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/clase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +55,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -85,7 +72,7 @@
       <recent name="H:\Programacion\Java-Algoritmos-y-Estructura-de-Datos\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.clase6">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeraPractica.Main" />
       <module name="Java - Algoritmos y Estructura de Datos" />
@@ -101,13 +88,6 @@
     </configuration>
     <configuration name="clase2_ejercicio_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clases.clase2_ejercicio_3" />
-      <module name="Java - Algoritmos y Estructura de Datos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="clase2_ejercicio_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clases.clase2_ejercicio_4" />
       <module name="Java - Algoritmos y Estructura de Datos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="clase6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clases.clase6" />
+      <module name="Java - Algoritmos y Estructura de Datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.clase6" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.clase5" />
         <item itemvalue="Application.clase2_ejercicio_6" />
         <item itemvalue="Application.clase2_ejercicio_3" />
-        <item itemvalue="Application.clase2_ejercicio_4" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +160,11 @@
       <workItem from="1694828538751" duration="619000" />
       <workItem from="1695227909500" duration="9237000" />
       <workItem from="1695422120164" duration="3614000" />
-      <workItem from="1695578819778" duration="6689000" />
+      <workItem from="1695578819778" duration="7204000" />
+      <workItem from="1696333464037" duration="3479000" />
+      <workItem from="1696546852275" duration="54000" />
+      <workItem from="1696546931252" duration="2530000" />
+      <workItem from="1696598034705" duration="294000" />
     </task>
     <servers />
   </component>
