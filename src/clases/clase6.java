@@ -1,6 +1,6 @@
 package clases;
 
-public class clase6 {
+public class    clase6 {
     public static void main(String[] args){
         /*
         char -> tipo primitivo
