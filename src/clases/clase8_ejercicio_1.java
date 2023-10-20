@@ -8,7 +8,7 @@ public class clase8_ejercicio_1 {
 
     public static String nameFile(String pathF){
         int i = pathF.lastIndexOf('/');
-        print(pathF[]);
+        //print(pathF[]);
         return "none";
     }
 

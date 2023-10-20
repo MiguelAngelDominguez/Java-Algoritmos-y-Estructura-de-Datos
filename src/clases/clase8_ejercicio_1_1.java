@@ -11,7 +11,7 @@ public class clase8_ejercicio_1_1 {
         System.out.print("Ingrese el nombre del archivo: ");
         String nombreArchivo = scanner.nextLine();
 
-        File archivo = new File(nombreArchivo);
+        File archivo = new File(nombreArchivo, String.valueOf(true));
 
         try {
             PrintWriter writer = new PrintWriter(archivo);
