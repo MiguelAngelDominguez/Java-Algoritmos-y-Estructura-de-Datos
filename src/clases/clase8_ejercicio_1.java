@@ -8,7 +8,8 @@ public class clase8_ejercicio_1 {
 
     public static String nameFile(String pathF){
         int i = pathF.lastIndexOf('/');
-        print(pathF[]);
+        int lengthS = pathF.length();
+        print(pathF.substring(i,lengthS));
         return "none";
     }
 
@@ -25,8 +26,9 @@ public class clase8_ejercicio_1 {
     public static void main(String[] args) throws IOException {
         print(" - Ingrese ubicacion del archivo: ");
         String filePath = reader.readLine();
+        String fileName = nameFile(filePath);
         String menu = """
-                .@---</"""+ nameFile(filePath)+">----"+
+                .@---</"""+ fileName +">----"+
                 """
                 1.Visualizar
                 2.Editar
