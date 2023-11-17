@@ -15,6 +15,9 @@ public class Matriz {
     private static void print(String txt){
         System.out.print(txt);
     }
+    public static boolean buscarCaracter(String texto, char caracter) {
+        return texto.indexOf(caracter) != -1;
+    }
 
     private static void println(String txt){
         System.out.println(txt);
