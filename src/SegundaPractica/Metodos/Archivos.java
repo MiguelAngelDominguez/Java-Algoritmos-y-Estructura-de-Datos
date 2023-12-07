@@ -14,9 +14,7 @@ public class Archivos {
     }
 
     public static  void manejoArch(){
-
         String pathFile = "miarchivo.txt";
-
         /*
         Manejo y modificacion de archivos
 
@@ -67,7 +65,7 @@ public class Archivos {
     }
 
     public static void main(String[] args){
-        String pathFile = "miarchivo.txt";
+        String pathFile = "./src/SegundaPractica/Metodos/miarchivo.txt";
 
         // Verificar si el archivo existe, se puede leer o escribir
         File pathArchivo = new File("./src/SegundaPractica/Metodos/miarchivo.txt");
@@ -86,5 +84,19 @@ public class Archivos {
         File pathdir2 = new File("./src/SegundaPractica/Metodos/newDir");
         boolean crearDir = pathdir2.mkdir();
         println("El directorio: "+pathdir2+" -> "+crearDir);
+
+        // Lectura del Archivo
+        try {
+            // Lectura del Archivo
+            FileReader lector = new FileReader(pathFile);
+            int l;
+            while ((l = lector.read())!=-1){
+                System.out.print((char)l);
+            }
+            println("");
+            lector.close();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 }

@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="fd83edd1-2b6a-4681-ac0e-5aea4833c156" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clases/clase8_ejercicio_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clases/clase8_ejercicio_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/PrimeraPractica/Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/PrimeraPractica/Matriz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clases/clase6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java - Algoritmos y Estructura de Datos/clases/clase6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeraPractica/Matriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeraPractica/Matriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaPractica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaPractica/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaPractica/Metodos/Archivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaPractica/Metodos/Archivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaPractica/Metodos/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaPractica/Metodos/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundaPractica/Metodos/miarchivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundaPractica/Metodos/miarchivo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/clase6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/clase6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,10 +87,12 @@
       <recent name="D:\APRENDIENDO PROGRAMACION\Java - Algoritmos y Estructura de Datos\books\PdfClase" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Programacion\Java-Algoritmos-y-Estructura-de-Datos\src\SegundaPractica" />
+      <recent name="H:\Programacion\Java-Algoritmos-y-Estructura-de-Datos\src\SegundaPractica\Metodos" />
       <recent name="H:\Programacion\Java-Algoritmos-y-Estructura-de-Datos\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Archivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SegundaPractica.Metodos.Archivos" />
       <module name="Java - Algoritmos y Estructura de Datos" />
@@ -110,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clases (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegundaPractica.Metodos.Clases" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SegundaPractica.Main" />
       <module name="Java - Algoritmos y Estructura de Datos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SegundaPractica.Metodos.*" />
+          <option name="PATTERN" value="SegundaPractica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clases (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegundaPractica.Metodos.Clases" />
+    <configuration name="clase4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clases.clase4" />
       <module name="Java - Algoritmos y Estructura de Datos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SegundaPractica.Metodos.*" />
+          <option name="PATTERN" value="clases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegundaPractica.Metodos.Clases" />
+    <configuration name="clase6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clases.clase6" />
       <module name="Java - Algoritmos y Estructura de Datos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SegundaPractica.Metodos.*" />
+          <option name="PATTERN" value="clases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.clase4" />
+        <item itemvalue="Application.clase6" />
         <item itemvalue="Application.Archivos" />
-        <item itemvalue="Application.Clases" />
-        <item itemvalue="Application.Clases (3)" />
-        <item itemvalue="Application.Clases (2)" />
+        <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +200,10 @@
       <workItem from="1696632161703" duration="3646000" />
       <workItem from="1696969071243" duration="6163000" />
       <workItem from="1697124985440" duration="766000" />
+      <workItem from="1697838926785" duration="7387000" />
+      <workItem from="1698926759489" duration="1009000" />
+      <workItem from="1698965099320" duration="1022000" />
+      <workItem from="1699570146990" duration="756000" />
     </task>
     <servers />
   </component>

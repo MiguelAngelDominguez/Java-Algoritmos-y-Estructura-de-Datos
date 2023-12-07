@@ -67,9 +67,11 @@ public class Arrays {
      * El algoritmo de ordenamiento de burbuja es un algoritmo de comparacion.
      * En este algoritmo, se compara cada elemento con el siguiente, y si el siguiente es menor, se intercambian.
      * Este proceso se repite hasta que no se necesiten mas intercambios.
+     *
      * @param arr El arreglo que se desea ordenar.
+     * @return
      */
-    public static void bubbleSort(int[] arr) {
+    public static int[] bubbleSort(int[] arr) {
         int n = arr.length;
         int temp = 0;
         for(int i=0; i < n; i++){
@@ -82,6 +84,7 @@ public class Arrays {
                 }
             }
         }
+        return arr;
     }
 
     public static int[] ordenarArray(int[] arr) {
@@ -118,6 +121,19 @@ public class Arrays {
     public static int[] deleteElement(int[] arr, int position){
         int n = arr.length;
         int[] newArr = new int[n-1];
+        for(int i=0; i < n-1; i++){
+            if(i<position){
+                newArr[i] = arr[i];
+            }else{
+                newArr[i] = arr[i+1];
+            }
+        }
+        return newArr;
+    }
+
+    public static String[] deleteElement(String[] arr, int position){
+        int n = arr.length;
+        String[] newArr = new String[n-1];
         for(int i=0; i < n-1; i++){
             if(i<position){
                 newArr[i] = arr[i];

@@ -44,7 +44,7 @@ public class    clase6 {
         6. str.subString(i,e) retorna una sub cadena de la cadena padre, desde el indice i hasta el indice e
          */
         System.out.println("____");
-        System.out.println(holaMundo.substring(1,2));
+        System.out.println(holaMundo.substring(0,2));
         /*
         7. startsWith("cadena")
          */
@@ -73,5 +73,7 @@ public class    clase6 {
             System.out.println(c);
         }
         // System.out.println("Hola\n Mundo \t desde Java 1\\12\\23");
+
+
      }
 }
